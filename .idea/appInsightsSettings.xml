@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.derlishn.walltrackapp" />
+                  <option name="mobileSdkAppId" value="1:699437018314:android:5bee1c963dfe6486f71833" />
+                  <option name="projectId" value="walltrack-app" />
+                  <option name="projectNumber" value="699437018314" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
